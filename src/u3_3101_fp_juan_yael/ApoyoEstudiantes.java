@@ -3,10 +3,7 @@ package u3_3101_fp_juan_yael;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author rebol
- */
+
 public class ApoyoEstudiantes {
     public static void main(String[] args) {
         double montoTotal = 189000;
