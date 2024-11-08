@@ -13,10 +13,10 @@ public class SelectivaSwitch {
         double h;
         double r;
         final double PI=3.1416;
-        byte opcion;
+        byte opcion1;
         opcion = Byte.parseByte(JOptionPane.showInputDialog("MENU DE OPCIONES\n 1.-AREA TRIANGULO\n 2.-AREA RECTANGULO\n 3.-AREA CIRCULO\n " 
                 + "Escribe el numero de tu eleccion"));
-        switch (opcion){
+        switch (opcion1){
             case 1:
                 b=Double.parseDouble(JOptionPane.showInputDialog("Proporciona la base"));
                 h=Double.parseDouble(JOptionPane.showInputDialog("Proporciona la altura"));
