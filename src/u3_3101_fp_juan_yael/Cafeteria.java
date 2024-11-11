@@ -3,14 +3,11 @@ package u3_3101_fp_juan_yael;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author rebol
- */
+
 public class Cafeteria {
     public static void main(String[] args) {
         String colorBola;
-        double precioOriginal, precioFinal, descuento;
+        double precioOriginal,  precioFinal,  descuento;
         precioOriginal = Double.parseDouble(JOptionPane.showInputDialog("Ingrese la cantidad total:"));
         colorBola = JOptionPane.showInputDialog("Seleccione el color de la bola (rojo, verde, azul, amarillo):").toLowerCase();
         if (colorBola.equals("rojo")) {
