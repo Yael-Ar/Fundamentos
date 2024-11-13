@@ -6,9 +6,9 @@ import javax.swing.JOptionPane;
 
 public class ApoyoEstudiantes {
     public static void main(String[] args) {
-        double montoTotal = 189000;
+        double montoTotal = 89000;
         double basquetbol = 9000;
-        double voleibol = 15000;
+        double voleibol = 5000;
         double artes = 50000;
         double futbol = 15000;
         double taekuondo = 50000;
