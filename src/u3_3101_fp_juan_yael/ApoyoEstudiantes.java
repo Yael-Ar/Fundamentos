@@ -8,10 +8,10 @@ public class ApoyoEstudiantes {
     public static void main(String[] args) {
         double montoTotal = 89000;
         double basquetbol = 9000;
-        double voleibol = 5000;
-        double artes = 50000;
-        double futbol = 15000;
-        double taekuondo = 50000;
+        double voleibol = 500;
+        double artes = 5000;
+        double futbol = 1500;
+        double taekuondo = 5000;
         double ajedrez = 25000;
         double musica = 12000;
         double atletismo = 13000;
