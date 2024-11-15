@@ -17,8 +17,8 @@ public class ApoyoEstudiantes {
         double atletismo = 1300;
         double porcentajeBasquetbol = (basquetbol / montoTotal) * 10;
         double porcentajeVoleibol = (voleibol / montoTotal) * 10;
-        double porcentajeArtes = (artes / montoTotal) * 100;
-        double porcentajeFutbol = (futbol / montoTotal) * 100;
+        double porcentajeArtes = (artes / montoTotal) * 10;
+        double porcentajeFutbol = (futbol / montoTotal) * 10;
         double porcentajeTaekuondo = (taekuondo / montoTotal) * 100;
         double porcentajeAjedrez = (ajedrez / montoTotal) * 100;
         double porcentajeMusica = (musica / montoTotal) * 100;
