@@ -14,7 +14,7 @@ public class U3_3101_FP_Juan_Yael {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int edad = 10;
+        int edad = 10
         String nombre = "Yael";
         float estatura = 1.70
         print('edad')
