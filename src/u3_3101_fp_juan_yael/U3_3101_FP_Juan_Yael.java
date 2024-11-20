@@ -20,6 +20,7 @@ public class U3_3101_FP_Juan_Yael {
         print('nombre')
         print('edad')
         print('estatura')
+        print('tu')
         // TODO code application logic here
     }
     
