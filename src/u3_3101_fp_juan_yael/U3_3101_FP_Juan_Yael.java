@@ -17,8 +17,8 @@ public class U3_3101_FP_Juan_Yael {
         int edad = 10
         String nombre = "Yael"
         float estatura = 1.70
-        print('edad')
         print('nombre')
+        print('edad')
         print('estatura')
         // TODO code application logic here
     }
