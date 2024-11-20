@@ -21,6 +21,7 @@ public class U3_3101_FP_Juan_Yael {
         print('edad')
         print('estatura')
         print('tu')
+        print('yes')
         // TODO code application logic here
     }
     
