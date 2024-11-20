@@ -22,6 +22,7 @@ public class U3_3101_FP_Juan_Yael {
         print('estatura')
         print('tu')
         print('yes')
+        print('no')
         // TODO code application logic here
     }
     
