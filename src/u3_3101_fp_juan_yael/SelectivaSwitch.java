@@ -35,7 +35,7 @@ public class SelectivaSwitch {
                 JOptionPane.showMessageDialog(null, "El area del circulo es: " + a);
                 break;
             default:
-                JOptionPane.showMessageDialog(null, "Solo se posible seleccionar 1,2 o 3\n Intente nuevamente");
+                JOptionPane.showMessageDialog(null, "Solo se puede seleccionar 1,2 o 3\n Intente nuevamente");
         }
     }
     
