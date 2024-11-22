@@ -21,7 +21,7 @@ public class SelectivaSwitch {
                 b=Double.parseDouble(JOptionPane.showInputDialog("Proporciona la base"));
                 h=Double.parseDouble(JOptionPane.showInputDialog("Proporciona la altura"));
                 a=(b*h)/2;
-                JOptionPane.showMessageDialog(null, "El area del triangulo es: " + a);
+                JOptionPane.showMessageDialog(null, "El area del triangulo es: " +  a);
                 break;
             case 2:
                 b=Double.parseDouble(JOptionPane.showInputDialog("Proporciona la base"));
@@ -35,7 +35,7 @@ public class SelectivaSwitch {
                 JOptionPane.showMessageDialog(null, "El area del circulo es: " + a);
                 break;
             default:
-                JOptionPane.showMessageDialog(null, "Solo es posible seleccionar 1,2 o 3\n Intente nuevamente");
+                JOptionPane.showMessageDialog(null, "Solo se posible seleccionar 1,2 o 3\n Intente nuevamente");
         }
     }
     
