@@ -19,8 +19,8 @@ public class U3_3101_FP_Juan_Yael {
         float estatura = 1.70
         print('nombre')
         print('edad')
-        print('estatura')
-        print('tu')
+        print('e')
+        print('t')
         print('y')
         print('n')
         // TODO code application logic here
