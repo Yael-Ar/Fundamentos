@@ -26,12 +26,12 @@ public class SelectivaSwitch {
                 b=Double.parseDouble(JOptionPane.showInputDialog("Proporciona la base"));
                 h=Double.parseDouble(JOptionPane.showInputDialog("Proporciona la altura"));
                 a=b*h;
-                JOptionPane.showMessageDialog(null, "El area del rectangulo es: " + a);
+                JOptionPane.showMessageDialog(null, "El area del rectangulo es:" + a);
                 break;
             case 3:
                 r=Double.parseDouble(JOptionPane.showInputDialog("Proporciona el radio"));
                 a=PI*(r*r);
-                JOptionPane.showMessageDialog(null, "El area del circulo es: " + a);
+                JOptionPane.showMessageDialog(null, "El area del circulo es:" + a);
                 break;
             default:
                 JOptionPane.showMessageDialog(null, "Solo se puede seleccionar 1,2 o 3 Intente nuevamente por favor");
