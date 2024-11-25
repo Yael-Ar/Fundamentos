@@ -7,7 +7,6 @@ import javax.swing.JOptionPane;
 import java.lang.Math;
 public class SelectivaSwitch {
     public static void main(String[] yael) {
-        // Declaracion de variables
         double a;
         double b;
         double h;
