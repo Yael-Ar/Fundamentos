@@ -22,7 +22,7 @@ public class ApoyoEstudiantes {
         double porcentajeTaekuondo = (taekuondo / montoTotal) * 10;
         double porcentajeAjedrez = (ajedrez / montoTotal) * 10;
         double porcentajeMusica = (musica / montoTotal) * 10;
-        double porcentajeAtletismo = (atletismo / montoTotal) * 100;
+        double porcentajeAtletismo = (atletismo / montoTotal) * 10;
         String resultado = 
             "Taller: Básquetbol,  Monto asignado: $" + basquetbol + ",  Porcentaje: " + porcentajeBasquetbol + "%\n" +
             "Taller: Voleibol,  Monto asignado: $" + voleibol + ",  Porcentaje: " + porcentajeVoleibol + "%\n" +
