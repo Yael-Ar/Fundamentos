@@ -10,7 +10,7 @@ public class ApoyoEstudiantes {
         double basquetbol = 900;
         double voleibol = 500;
         double artes = 500;
-        double futbol = 1500;
+        double futbol = 150;
         double taekuondo = 500;
         double ajedrez = 250;
         double musica = 1000;
