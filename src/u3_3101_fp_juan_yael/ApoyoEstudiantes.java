@@ -9,9 +9,9 @@ public class ApoyoEstudiantes {
         double montoTotal = 890;
         double basquetbol = 90;
         double voleibol = 500;
-        double artes = 500;
-        double futbol = 150;
-        double taekuondo = 500;
+        double artes = 50;
+        double futbol = 10;
+        double taekuondo = 50;
         double ajedrez = 250;
         double musica = 100;
         double atletismo = 1300;
