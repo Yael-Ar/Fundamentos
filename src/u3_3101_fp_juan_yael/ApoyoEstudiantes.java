@@ -6,13 +6,13 @@ import javax.swing.JOptionPane;
 
 public class ApoyoEstudiantes {
     public static void main(String[] args) {
-        double montoTotal = 890;
+        double montoTotal = 89;
         double basquetbol = 90;
-        double voleibol = 500;
+        double voleibol = 50;
         double artes = 50;
         double futbol = 10;
         double taekuondo = 50;
-        double ajedrez = 250;
+        double ajedrez = 20;
         double musica = 100;
         double atletismo = 1300;
         double porcentajeBasquetbol = (bauetbol / montoTotal) * 100;
