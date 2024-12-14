@@ -4,7 +4,7 @@ Algoritmo por_casos
 	imprimir "capture otro numero"
 	leer r
 	Borrar Pantalla
-	imprimir "Menu principal"
+	imprimir "Menu inicial"
 	imprimir "1.- Suma"
 	Imprimir "2.- Resta"
 	Imprimir "3.- Multiplicacion"
