@@ -9,8 +9,8 @@ Algoritmo por_casos
 	Imprimir "2.- Resta"
 	Imprimir "3.- Multiplicacion"
 	imprimir "Elige una opcion"
-	leer z
-	segun z Hacer
+	leer b
+	segun b Hacer
 		1:
 			a=x+r
 			Imprimir "el resultado de la suma es: " , a
