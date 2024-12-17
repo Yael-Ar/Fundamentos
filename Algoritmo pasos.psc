@@ -5,9 +5,9 @@ Algoritmo por_casos
 	leer r
 	Borrar Pantalla
 	imprimir "Menu inicial"
-	imprimir "1.- Suma"
-	Imprimir "2.- Resta"
-	Imprimir "3.- Multiplicacion"
+	imprimir "4.- Suma"
+	Imprimir "5.- Resta"
+	Imprimir "6.- Multiplicacion"
 	imprimir "Elige una opcion del 1 al 3"
 	leer b
 	segun b Hacer
