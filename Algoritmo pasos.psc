@@ -8,7 +8,7 @@ Algoritmo por_casos
 	imprimir "1.- Suma"
 	Imprimir "2.- Resta"
 	Imprimir "3.- Multiplicacion"
-	imprimir "Elige una opcion del 1 al 6"
+	imprimir "Elige una opcion del 1 al 3"
 	leer b
 	segun b Hacer
 		1:
