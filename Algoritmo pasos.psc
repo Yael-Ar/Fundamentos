@@ -11,13 +11,13 @@ Algoritmo por_casos
 	imprimir "Elige una opcion del 1 al 3"
 	leer b
 	segun b Hacer
-		4:
+		1:
 			a=x+r
 			Imprimir "el resultado de la suma es: " , a
-	        5:
+	        2:
 			e=x-r
 			imprimir "el resultado de la resta es: " , e
-		6:
+		3:
 			m=x*r
 			imprimir "el resultado de la multiplicacion es: " , m
 	FinSegun
