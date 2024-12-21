@@ -13,12 +13,12 @@ Algoritmo por_casos
 	segun b Hacer
 		1:
 			a=x+r
-			Imprimir "el resultado de la suma es: " , a
+			Imprimir "el resultado de la suma es:  " , a
 	        2:
 			e=x-r
-			imprimir "el resultado de la resta es: " , e
+			imprimir "el resultado de la resta es: "  , e
 		3:
 			m=x*r
-			imprimir "el resultado de la multiplicacion es: " , m
+			imprimir "el resultado de la multiplicacion es:  " , m
 	FinSegun
 FinAlgoritmo
