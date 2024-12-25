@@ -22,7 +22,7 @@ public class U3_3101_FP_Juan_Yael {
         print('e')
         print('t')
         print('y')
-        print('n')
+        print(n)
         // TODO code application logic here
     }
     
