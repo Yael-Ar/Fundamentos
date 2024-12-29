@@ -1,10 +1,6 @@
 
 package u3_3101_fp_juan_yael;
 
-/**
- *
- * @author rebol
- */
 public class U3_3101_FP_Juan_Yael {
 
     /**
