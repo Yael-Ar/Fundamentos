@@ -14,7 +14,7 @@ public class U3_3101_FP_Juan_Yael {
         print('y')
         print(n)
             print ('Ingresa tu nombre')
-            print (nombre+apellido)
+            print (nombre)
     }
     
 }
