@@ -13,8 +13,6 @@ public class U3_3101_FP_Juan_Yael {
         print('t')
         print('y')
         print(n)
-            
-            print (nombre)
     }
     
 }
