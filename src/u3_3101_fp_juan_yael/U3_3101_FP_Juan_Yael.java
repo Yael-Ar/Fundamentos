@@ -8,9 +8,6 @@ public class U3_3101_FP_Juan_Yael {
         String nombre = "Yael"
         float estatura = 1.70
         print('nombre')
-        print('ed')
-        print('e')
-        print('t')
     }
     
 }
