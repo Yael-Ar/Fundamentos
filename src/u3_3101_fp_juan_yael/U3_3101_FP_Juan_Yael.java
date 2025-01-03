@@ -11,8 +11,6 @@ public class U3_3101_FP_Juan_Yael {
         print('ed')
         print('e')
         print('t')
-        print('y')
-        print(n)
     }
     
 }
