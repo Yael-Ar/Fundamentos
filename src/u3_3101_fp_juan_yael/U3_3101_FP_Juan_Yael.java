@@ -6,8 +6,5 @@ public class U3_3101_FP_Juan_Yael {
     public static void main(String[] args) {
         int edad = 10
         String nombre = "Yael"
-        float estatura = 1.70
-        print('nombre')
-    }
     
 }
