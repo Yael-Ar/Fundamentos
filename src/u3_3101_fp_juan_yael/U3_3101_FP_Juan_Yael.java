@@ -5,5 +5,6 @@ public class U3_3101_FP_Juan_Yael {
 
     public static void main(String[] args) {
         int edad = 10
+        int anioNacimiento = 2006
     
 }
