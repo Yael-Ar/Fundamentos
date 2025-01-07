@@ -3,7 +3,7 @@ from werkzeug.security import generate_password_hash
 
 minus = "abcdefghijklmnopqrstuvwxyz"
 mayus = minus.upper()
-numeros = "0123456789"
+num = "0123456789"
 simbolos = "@()[]{}*,;/-_¿?.¡!$<#>&+%="
 
 base = minus+mayus+numeros+simbolos
