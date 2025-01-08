@@ -11,10 +11,6 @@ public class ApoyoEstudiantes {
         double voleibol = 50;
         double artes = 50;
         double futbol = 10;
-        double taekuondo = 50;
-        double ajedrez = 20;
-        double musica = 10;
-        double atletismo = 13;
         double porcentajeBasquetbol = (bauetbol / montoTotal) * 10;
         double porcentajeVoleibol = (voleibol / montoTotal) * 10;
         double porcentajeArtes = (artes / montoTotal) * 10;
