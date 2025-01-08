@@ -7,10 +7,6 @@ import javax.swing.JOptionPane;
 public class ApoyoEstudiantes {
     public static void main(String[] args) {
         double montoTotal = 89;
-        double basquetbol = 90;
-        double voleibol = 50;
-        double artes = 50;
-        double futbol = 10;
         double porcentajeBasquetbol = (bauetbol / montoTotal) * 10;
         double porcentajeVoleibol = (voleibol / montoTotal) * 10;
         double porcentajeArtes = (artes / montoTotal) * 10;
