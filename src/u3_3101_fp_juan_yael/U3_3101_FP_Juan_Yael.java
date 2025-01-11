@@ -7,5 +7,5 @@ public class U3_3101_FP_Juan_Yael {
         int edad = 18
         int anioNacimiento = 2006
         String nombre = "Yael"
-        
+        String mesNacimiento = "Noviembre"
 }
