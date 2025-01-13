@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 import java.lang.Math;
 public class SelectivaSwitch {
     public static void main(String[] yael) {
-        double a;
+        double c;
         double b;
         double h;
         double r;
