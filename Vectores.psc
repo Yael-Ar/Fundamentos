@@ -1,5 +1,5 @@
 Algoritmo Vectores
-	Imprimir "Dame la longitud del vector"
+	Imprimir "Dame la longitud"
 	leer x
 	d=1
 	Dimension vector[x]
