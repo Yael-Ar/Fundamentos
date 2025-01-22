@@ -1,5 +1,5 @@
 Algoritmo por_casos
-	imprimir "capture un numero cualquiera"
+	imprimir "capture un numero"
 	leer x
 	imprimir "capture otro numero cualquiera"
 	leer r
