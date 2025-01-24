@@ -1,7 +1,7 @@
 Algoritmo por_casos
 	imprimir "capture un numero"
 	leer x
-	imprimir "capture otro numero cualquiera"
+	imprimir "capture otro numero"
 	leer r
 	Borrar Pantalla
 	imprimir "Menu inicial"
